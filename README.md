@@ -1,9 +1,11 @@
 # OSSM Software
 
-This is my modified version of the original [OSSM Firmware](https://github.com/KinkyMakers/OSSM-hardware) with a fer changes:
+This is my modified version of the original [OSSM Firmware](https://github.com/KinkyMakers/OSSM-hardware) with a few changes:
 
 - WiFi comonents completely removed
 - Simple Stroke Mode removed
+- Different Logo
+- NOT up to date with the original FW! I keep it at (for me) suitably a working version
 
 ### Requirements
 
